@@ -1,0 +1,28 @@
+#Submit_b{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+input{
+    margin-top: 25px;
+}
+#sort_butt{
+    display:none;
+    margin-top: 29px;
+    margin-bottom: 29px;
+}
+#dis_name_without_commas {
+    border: 2px solid rgb(255, 145, 0);
+    background-color: brown;
+    width: 50%;
+    padding: 11px;
+    
+}
+#dis_name_with_commas {
+    border: 2px solid rgb(255, 0, 0);
+    background-color: rgb(241, 144, 144);
+    width: 50%;
+    padding: 11px;
+    margin:10px;
+}
+
